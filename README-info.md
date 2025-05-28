@@ -5,13 +5,13 @@
 1. **Kariny Rodrigues Fernandes**  
    🧭 Trilha: RPA
 
-2. **Kauã**  
+2. **Kauã Kelvyn Costa De Moraes**  
    🧭 Trilha: QA
 
-3. **Milena**  
+3. **Milena Gonçalves Soares**  
    🧭 Trilha: Dados
 
-4. **William**  
+4. **William Augusto de Lima**  
    🧭 Trilha: Full Stack
 
 ---
